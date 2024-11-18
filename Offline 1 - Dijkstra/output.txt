@@ -1,0 +1,15 @@
+Number of vertices: 6, Number of edges: 7
+0 -> [1, 4] -> [2, 2] -> 
+1 -> [0, 4] -> [2, 5] -> [3, 10] -> 
+2 -> [0, 2] -> [1, 5] -> [4, 3] -> 
+3 -> [1, 10] -> [4, 4] -> [5, 11] -> 
+4 -> [2, 3] -> [3, 4] -> 
+5 -> [3, 11] -> 
+
+Shortest Paths :
+Vertex :0 Cost :0  Path : 0->
+Vertex :1 Cost :4  Path : 0->1->
+Vertex :2 Cost :2  Path : 0->2->
+Vertex :3 Cost :9  Path : 0->2->4->3->
+Vertex :4 Cost :5  Path : 0->2->4->
+Vertex :5 Cost :20  Path : 0->2->4->3->5->

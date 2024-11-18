@@ -1,0 +1,5 @@
+according to website, minimum vertex cover of the graphs
+graph 1 - 420 
+graph 2 - 560 
+graph 3 - 720 
+graph 4 - 900
